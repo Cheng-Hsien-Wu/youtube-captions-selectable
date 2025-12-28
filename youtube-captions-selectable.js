@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         YouTube Captions Selectable (Edge / Chromium)
+// @name         YouTube Captions Selectable
 // @namespace    yt-caption-selectable
 // @version      0.1
 // @description  Make YouTube subtitles selectable and enable native browser context menu
