@@ -48,6 +48,10 @@ The transcript supports normal drag selection and copying.
 
 Edge may show a mini menu when text is selected.  
 This is a browser feature. To remove it, go to Edge settings or use the mini menu’s hide option for YouTube.
+1. Select any text on a web page to show the mini menu
+2. Click the **⋯** button on the mini menu
+3. Choose **Hide menu for this site**
+4. Add `youtube.com` to the list
 
 ---
 
